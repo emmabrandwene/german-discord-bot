@@ -1,0 +1,39 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+## Germa Bot 
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+## This will be a discord bot that I utilize in my discord server to translate german to english, where the translations will be posted in mod logs channel. This will be useful for me and my friends as we have a lot of native german speakers. 
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+## Overall, the idea of the project is to translate german by utulizing for loops and logging them in another channel. I do plan on adding other commands that the bot will complete, like simple things to send responses based on commands. 
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+## NA
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+## NA
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+## The goal is to have the bot be able to translate basic german phrases because going to google translate is too hard and we always joke with our german friends about it. 
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+## the better outcome for this project is to have the bot translate without running a command. 
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+## The best possible outcome is to have the bot catch typos or slang and still be able to complete a translation.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+## New skills I will need to acquire will be utilizing discord specific commands revolving around channels and users. Permissions for the bot are also a necessary step to research, as I will have the bot log in an administrator channel. I will neeed to  do some research on the german language but luckily my friends will be able to assist with that. 
